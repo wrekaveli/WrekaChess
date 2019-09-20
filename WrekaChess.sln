@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrekaChess.Lib", "WrekaChess.Lib\WrekaChess.Lib.csproj", "{400C7487-AA93-40D8-8642-B8241AFE171A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrekaChess.Console", "WrekaChess.Console\WrekaChess.Console.csproj", "{3DC4353C-B524-403A-A6BE-70C3698D2156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400C7487-AA93-40D8-8642-B8241AFE171A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400C7487-AA93-40D8-8642-B8241AFE171A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400C7487-AA93-40D8-8642-B8241AFE171A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400C7487-AA93-40D8-8642-B8241AFE171A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC4353C-B524-403A-A6BE-70C3698D2156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC4353C-B524-403A-A6BE-70C3698D2156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC4353C-B524-403A-A6BE-70C3698D2156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC4353C-B524-403A-A6BE-70C3698D2156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2086F3-3742-4DB0-8E88-C44425E3F7D9}
+	EndGlobalSection
+EndGlobal

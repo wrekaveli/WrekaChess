@@ -1,0 +1,9 @@
+WrekaChess.sln.DotSettings.user
+
+WrekaChess.Console/bin/*
+WrekaChess.Console/obj/*
+
+WrekaChess.Lib/bin/*
+WrekaChess.Lib/obj/*
+
+/.vs
